@@ -1,3 +1,5 @@
 ﻿  Sources.cpp
-C:\Users\Alexa Kaarime\OneDrive\Escritorio\Proyectos de programacion\Lenguaje C++\OJO DE MOSCA\OJO DE MOSCA\Sources.cpp(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Alexa Kaarime\OneDrive\Escritorio\Proyectos de programacion\Lenguaje C++\OJO DE MOSCA\OJO DE MOSCA\Circulo.h(12,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sources.cpp')
+  
   OJO DE MOSCA.vcxproj -> C:\Users\Alexa Kaarime\OneDrive\Escritorio\Proyectos de programacion\Lenguaje C++\OJO DE MOSCA\x64\Debug\OJO DE MOSCA.exe

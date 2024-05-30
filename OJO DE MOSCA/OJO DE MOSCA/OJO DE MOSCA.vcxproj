@@ -21,6 +21,13 @@
   <ItemGroup>
     <ClCompile Include="Sources.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Circulo.h" />
+    <ClInclude Include="ManejadorEntrada.h" />
+    <ClInclude Include="Rotable.h" />
+    <ClInclude Include="Movible.h" />
+    <ClInclude Include="Dibujable.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
